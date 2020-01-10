@@ -10,7 +10,7 @@ This site provides a conduit for the CTSA community to access CD2H resources and
 
 ## Website Redesign
 
-CD2H is currently involved in a full redesign of its web site.  For current status on this project, see the Website Redesign project in the Project tab above.
+CD2H is currently involved in a full redesign of its web site.  For current status on this project, see the [https://github.com/data2health/website/projects/2](Website Redesign) project in the Project tab above.
 
 
 ## Funding
