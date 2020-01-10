@@ -8,6 +8,10 @@ https://ctsa.ncats.nih.gov/cd2h/home
 
 This site provides a conduit for the CTSA community to access CD2H resources and content, collaborate and exchange ideas with the translational informatics community through working groups and events, and promote and disseminate their own resources and initiatives.
 
+## Website Redesign
+
+CD2H is currently involved in a full redesign of its web site.  For current status on this project, see the Website Redesign project in the Project tab above.
+
 
 ## Funding
 The CTSA Program National Center for Data to Health (CD2H) is supported by the National Center for Advancing Translational Sciences (NCATS) at the National Institutes of Health (Grant U24TR002306).
