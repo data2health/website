@@ -12,6 +12,8 @@ This site provides a conduit for the CTSA community to access CD2H resources and
 
 CD2H is currently involved in a full redesign of its web site.  For current status on this project, see the [Website Redesign](https://github.com/data2health/website/projects/2) project in the Project tab above.
 
+The repository for the Drupal instance is [drupal](https://github.com/data2health/drupal).
+
 
 ## Funding
 The CTSA Program National Center for Data to Health (CD2H) is supported by the National Center for Advancing Translational Sciences (NCATS) at the National Institutes of Health (Grant U24TR002306).
